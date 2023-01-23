@@ -1,6 +1,6 @@
 ---
 title: Acerca de
-layout: Acerca de
+layout: about
 image: images/about.jpg
 caption:
   enable: true
