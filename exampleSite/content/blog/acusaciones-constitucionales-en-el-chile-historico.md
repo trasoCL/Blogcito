@@ -2,7 +2,7 @@
 author = "Cristina Parra"
 categories = ["Derecho"]
 date = 2023-01-23T03:00:00Z
-image = "/uploads/tumblr_ps05l7z9js1r868elo1_500.jpg"
+image = "/uploads/tumblr_pr3dr0uqxu1xzrtw4o1_1280.png"
 tags = ["Derecho constitucional", " Derecho chileno", " Historia chilena", "Análisis comparativo"]
 title = "Acusaciones constitucionales en el Chile histórico"
 
