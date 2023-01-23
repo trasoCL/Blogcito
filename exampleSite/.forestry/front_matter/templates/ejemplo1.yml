@@ -16,14 +16,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: texto
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Texto
 pages:
 - exampleSite/content/blog/asd.md
