@@ -25,5 +25,3 @@ fields:
     schema:
       format: markdown
   label: Texto
-pages:
-- exampleSite/content/blog/Prólogo.md
