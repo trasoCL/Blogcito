@@ -1,6 +1,29 @@
 ---
 label: ejemplo1
 hide_body: true
-fields: []
+fields:
+- name: titulo
+  type: text
+  config:
+    required: false
+  label: Titulo
+- name: fecha
+  type: datetime
+  label: fecha
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: texto
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Texto
 pages:
 - exampleSite/content/blog/asd.md
