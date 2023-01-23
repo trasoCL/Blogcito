@@ -1,4 +1,43 @@
 ---
 label: Entrada de blog
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: date
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
