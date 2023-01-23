@@ -47,11 +47,6 @@ parent = "Páginas"
 url = "tags/"
 weight = 2
 [[menu.main]]
-name = "Author"
-parent = "Páginas"
-url = "author/"
-weight = 1
-[[menu.main]]
 hasChildren = true
 name = "Páginas"
 url = "#"
