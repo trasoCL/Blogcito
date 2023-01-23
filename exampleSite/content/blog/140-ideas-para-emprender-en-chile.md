@@ -1,5 +1,5 @@
 +++
-author = "author/_index.md"
+author = "Cristina Parra"
 categories = ["Libros"]
 date = 2023-01-23T03:00:00Z
 image = ""
