@@ -23,7 +23,7 @@ fields:
   label: date
 - name: author
   type: select
-  default: []
+  default: ''
   config:
     required: false
     options: []
