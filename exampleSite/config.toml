@@ -22,50 +22,50 @@ name = "About"
 url = "about/"
 weight = 1
 [[menu.main]]
+name = "Contacto"
+url = "contact/"
+weight = 3
+[[menu.main]]
+name = "Acerca de"
+url = "about/"
+weight = 2
+[[menu.main]]
 name = "Terms & Conditions"
-parent = "Pages"
+parent = "Páginas"
 url = "terms-conditions/"
 weight = 6
 [[menu.main]]
 name = "Privacy"
-parent = "Pages"
+parent = "Páginas"
 url = "privacy/"
 weight = 5
 [[menu.main]]
 name = "Elements"
-parent = "Pages"
+parent = "Páginas"
 url = "elements/"
 weight = 4
 [[menu.main]]
 name = "Category"
-parent = "Pages"
+parent = "Páginas"
 url = "categories/"
 weight = 3
 [[menu.main]]
 name = "Tags"
-parent = "Pages"
+parent = "Páginas"
 url = "tags/"
 weight = 2
 [[menu.main]]
 name = "Author"
-parent = "Pages"
+parent = "Páginas"
 url = "author/"
 weight = 1
 [[menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Páginas"
 url = "#"
 weight = 4
 [[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 3
-[[menu.main]]
-name = "About"
-url = "about/"
-weight = 2
-[[menu.main]]
-name = "Home"
+name = "Inicio"
 url = "/"
 weight = 1
 [module.hugoVersion]
