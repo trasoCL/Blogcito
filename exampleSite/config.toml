@@ -22,14 +22,6 @@ name = "About"
 url = "about/"
 weight = 1
 [[menu.main]]
-name = "Contacto"
-url = "contact/"
-weight = 3
-[[menu.main]]
-name = "Acerca de"
-url = "about/"
-weight = 2
-[[menu.main]]
 name = "Terms & Conditions"
 parent = "Páginas"
 url = "terms-conditions/"
@@ -64,6 +56,10 @@ hasChildren = true
 name = "Páginas"
 url = "#"
 weight = 4
+[[menu.main]]
+name = "Contacto"
+url = "contact/"
+weight = 3
 [[menu.main]]
 name = "Inicio"
 url = "/"
