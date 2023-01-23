@@ -30,5 +30,6 @@ what_i_do:
     icon: lar la-snowflake
     description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
       non purus eget ipsum elementum venenatis.
+draft: true
 
 ---
