@@ -1,5 +1,5 @@
 +++
-author = "Cristina Parra"
+author = "author/_index.md"
 categories = ["Derecho"]
 date = 2023-01-23T03:00:00Z
 fecha = "2023-01-23T03:00:00.000+00:00"
