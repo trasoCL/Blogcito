@@ -30,16 +30,9 @@ fields:
     maxSize: 64
   label: image
 - name: author
-  type: select
-  default: []
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: pages
-      section: author
-      file: 
-      path: 
   label: author
 pages:
 - exampleSite/content/blog/140-ideas-para-emprender-en-chile.md
