@@ -1,6 +1,6 @@
 ---
-title: About
-layout: about
+title: Acerca de
+layout: Acerca de
 image: images/about.jpg
 caption:
   enable: true
@@ -22,18 +22,13 @@ what_i_do:
   item:
   - title: Content Writing
     icon: las la-pen-nib
-    description: Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus
-      eget ipsum elementum venenatis.
+    description: P
   - title: Photography
     icon: las la-camera
-    description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
-      non purus eget ipsum elementum venenatis.
+    description: ''
   - title: Web Research
     icon: lar la-snowflake
     description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
       non purus eget ipsum elementum venenatis.
 
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
