@@ -2,3 +2,5 @@
 label: ejemplo1
 hide_body: true
 fields: []
+pages:
+- exampleSite/content/blog/asd.md
