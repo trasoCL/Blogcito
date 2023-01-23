@@ -10,3 +10,4 @@ fields:
   label: layout
 pages:
 - exampleSite/content/blog/aaa.md
+- exampleSite/content/blog/asd.md
