@@ -22,10 +22,6 @@ name = "About"
 url = "about/"
 weight = 1
 [[menu.main]]
-name = "Buy Premium"
-url = "https://gethugothemes.com/products/bookworm/"
-weight = 4
-[[menu.main]]
 name = "Terms & Conditions"
 parent = "Pages"
 url = "terms-conditions/"
@@ -59,7 +55,7 @@ weight = 1
 hasChildren = true
 name = "Pages"
 url = "#"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Contact"
 url = "contact/"
