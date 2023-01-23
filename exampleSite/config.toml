@@ -1,10 +1,10 @@
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
+baseURL = "https://blogsito.netlify.app/"
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 paginate = "5"
 summaryLength = "20"
 theme = "bookworm-light"
-title = "Bookworm - Personal Blog Template"
+title = "Blogcito <3"
 [imaging]
 quality = "95"
 [markup.goldmark.renderer]
