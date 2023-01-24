@@ -50,10 +50,6 @@ weight = 2
 hasChildren = true
 name = "Páginas"
 url = "#"
-weight = 4
-[[menu.main]]
-name = "Contacto"
-url = "contact/"
 weight = 3
 [[menu.main]]
 name = "Inicio"
