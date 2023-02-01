@@ -1,10 +1,13 @@
 +++
 author = "Cristina Parra"
-categories = ["Trabajo"]
+categories = ["Derecho chileno"]
 date = 2023-01-23T03:00:00Z
-image = "/uploads/tumblr_pqbd582cls1rh844qo1_540.jpg"
-tags = ["RSE"]
-title = "Buenas prácticas laborales"
+draft = true
+image = "/uploads/impuesto-a-la-rentawqeqwe.JPG"
+tags = ["Renta", "Impuesto"]
+title = "Decreto de Ley 824: Párrafo 2 del  art. 1"
 
 +++
-Cuerpo del post
+**Revisión y análisis de la ley de impuesto a la renta chilena en comparación a leyes similares en Perú, España y EEUU. Se buscan puntos de encuentro entre diferentes formas de pensamiento, más allá del tratamiento propio de la ley.**  
+
+Para comenzar se revisarán las definiciones q
