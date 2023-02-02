@@ -8,6 +8,10 @@ tags = ["Renta", "Impuesto"]
 title = "Decreto de Ley 824: Párrafo 2 del  art. 1"
 
 +++
-**Revisión y análisis de la ley de impuesto a la renta chilena en comparación a leyes similares en Perú, España y EEUU. Se buscan puntos de encuentro entre diferentes formas de pensamiento, más allá del tratamiento propio de la ley.**  
+**Revisión y análisis de la ley chilena de impuesto a la renta en comparación a leyes similares de España. Más allá del tratamiento propio de la ley se buscan puntos de encuentro entre diferentes formas de pensamiento que poseen sociedades antiguas y jóvenes.** 
 
-Para comenzar se revisarán las definiciones q
+Para comenzar se revisarán las definiciones establecidas en el primer articulo de la presente ley:
+
+### **Renta** 
+
+Esta 
