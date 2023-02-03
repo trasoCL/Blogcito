@@ -7,3 +7,4 @@ tags = ["Análisis comparativo", "Temporal", "Contingencia nacional"]
 title = "El estado chileno y las crisis"
 
 +++
+este es el cuerpo del post
