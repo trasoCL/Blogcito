@@ -2,7 +2,6 @@
 author = "Cristina Parra"
 categories = ["Derecho chileno"]
 date = 2023-01-23T03:00:00Z
-draft = true
 image = "/uploads/impuesto-a-la-rentawqeqwe.JPG"
 tags = ["Renta", "Impuesto"]
 title = "Decreto de Ley 824: Párrafo 2 del  art. 1"
