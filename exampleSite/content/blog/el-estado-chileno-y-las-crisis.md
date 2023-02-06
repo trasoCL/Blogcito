@@ -2,7 +2,6 @@
 author = "Cristina Parra"
 categories = ["Política a la CHILENA"]
 date = 2023-01-24T12:00:00Z
-draft = true
 image = "/uploads/la-izquierda-ha-sido-vencida-otra-vez.JPG"
 tags = ["Temporal", "Contingencia nacional", " Análisis descriptivo"]
 title = "El estado chileno y las crisis: caso 1"
