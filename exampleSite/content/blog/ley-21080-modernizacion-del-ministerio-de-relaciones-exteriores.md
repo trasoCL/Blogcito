@@ -2,7 +2,6 @@
 author = "Cristina Parra"
 categories = ["Derecho"]
 date = 2023-02-05T12:00:00Z
-draft = true
 image = "/uploads/revision-de-ley-n-21080.JPG"
 tags = ["Análisis descriptivo", "Revisión de ley"]
 title = "Ley 21080: Modernización del Ministerio de relaciones exteriores"
