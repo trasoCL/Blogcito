@@ -1,8 +1,8 @@
 +++
 author = "Cristina Parra"
 categories = ["Hacking"]
-date = 2023-03-09T12:00:00Z
-image = "/uploads/emociones-portada.jpg"
+date = 2023-03-08T12:00:00Z
+image = "/uploads/hackerman.jpg"
 tags = ["Programación", "Tutoriales"]
 title = "Tutorial de markdown 1"
 
