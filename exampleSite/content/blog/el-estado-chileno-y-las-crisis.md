@@ -17,7 +17,8 @@ Desde luego, la mejor forma es la que demuestre sin ninguna duda el objeto de es
 
 ![](/uploads/noticia-caso-1-pach.JPG)
 
-    https://www.youtube.com/watch?v=G_IBFhY3rKg(audio filtrado)
+{{< youtube G_IBFhY3rKg >}}
+    
 
 Pero antes de referirnos al contenido de los argumentos, es necesario conocer un poco más acerca de algunos funcionarios públicos que participaron en dicho audio y, según la planilla de transparencia (2022) sustentada en la ley N° 20.285, su remuneración bruta es:
 
