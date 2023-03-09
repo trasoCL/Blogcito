@@ -2,7 +2,7 @@
 author = "Cristina Parra"
 categories = ["Psicologia"]
 date = 2023-03-08T12:00:00Z
-image = "/uploads/emociones-portada.JPG"
+image = "/uploads/emociones-portada.jpg"
 tags = ["Salud emocional", "Método descriptivo"]
 title = "Emociones y su tratamiento"
 

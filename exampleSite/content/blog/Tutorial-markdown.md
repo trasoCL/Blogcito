@@ -1,10 +1,10 @@
 +++
 author = "Cristina Parra"
 categories = ["Hacking"]
-date = 2023-03-08T12:00:00Z
-image = "/uploads/emociones-portada.JPG"
+date = 2023-03-09T12:00:00Z
+image = "/uploads/emociones-portada.jpg"
 tags = ["Programación", "Tutoriales"]
-title = "Emociones y su tratamiento"
+title = "Tutorial de markdown 1"
 
 +++
 **Las emociones**
@@ -14,7 +14,7 @@ Las emociones ***y sus consecuencias***
 - asasd
 
 
-> ahsdjl
+> Texto de prueba
 
 ![](/uploads/portada-1-3-crianza.jpg)
 
