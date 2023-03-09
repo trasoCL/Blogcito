@@ -2,20 +2,27 @@
 author = "Cristina Parra"
 categories = ["Psicologia"]
 date = 2023-03-08T12:00:00Z
-image = "/uploads/revision-de-ley-n-21080.JPG"
-tags = ["emociones", "Modelo descriptivo"]
+image = "/uploads/emociones-portada.JPG"
+tags = ["Salud emocional", "Método descriptivo"]
 title = "Emociones y su tratamiento"
 
 +++
-**Partiendo de la verdad inequívoca que hasta el instrumento de evaluación más útil puede ser puesto a prueba y fallar. En esta sección se describirán leyes chilenas en estado vigente para comprender su utilidad social, y se detallará el gasto público asociado a su formulación, evaluación y puesta en marcha.**
+**Nuestra forma de sentir y de expresión emocional son cruciales al momento de interactuar con otros y con el entorno, por ello, su comprensión es fundamental para el desarrollo humano que se espere tener.**
 
-#### Emociones
-Las emociones ***y sus consecuencias***
-- asasd
+#### Las emociones
+ Los estados emocionales son posible de definir como el resultado de experiencias vividas, y la mayoria de los expertos en psicología clínica coinciden en la importancia de este componente experencial. 
 
+Es decir, esta información emocional que recibe y emite el cerebro humano, además de los mecanismos de defensa y predisposiciones de personalidad que existan, todos en conjunto, determinaran que estados emocionales serán almacenados para situaciones similares que ocurran en el futuro.
 
-> ahsdjl
+ Por tanto, un individuo que haya desarrollado adecuadamente sus emociones durante la primera infancia o rango etario temprano y este sobreviviendo a las crisis propias de su etapa actual del ciclo vital individual y/o familiar, será considerado una persona con un alto nivel de inteligencia y salud emocional. O bien, con saludables estados emocionales.
 
-![](/uploads/portada-1-3-crianza.jpg)
+Según lo mencionado en el estudio de Moscoso (1998, pág 6), la evaluación cognitiva sobre que tan amenazadora es una situación influenciará significativamente la intensidad de la reacción emocional. El autor prosigue en que esta evaluación es entendida como *"el proceso de negociar entre las demandas y recursos del medio ambiente"*, versus, las creencias y prioridad de metas de la persona. 
 
-[Links](https://www.youtube.com/watch?v=imQSwHBE0w4&list=PLMy5LfatXgqKMJcBwbnuLh4dGE8pfkq33&index=8)
+####Ira
+![](/uploads/ira.png)
+
+####Felicidad
+![](/uploads/felicidad.jpg)
+
+####Temor
+![](/uploads/temor.jpg)
