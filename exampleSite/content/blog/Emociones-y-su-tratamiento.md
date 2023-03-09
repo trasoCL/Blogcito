@@ -16,6 +16,6 @@ Las emociones ***y sus consecuencias***
 
 > ahsdjl
 
-![](/exampleSite/static/uploads/portada-1-3-crianza.jpg)
+![](/uploads/portada-1-3-crianza.jpg)
 
 [Links](https://www.youtube.com/watch?v=imQSwHBE0w4&list=PLMy5LfatXgqKMJcBwbnuLh4dGE8pfkq33&index=8)
