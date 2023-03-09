@@ -34,7 +34,7 @@ Entonces, según las ciencias sociales, es posible considerar a la vida como una
 
 Somos consecuencia de un gran cúmulo de victorias y derrotas obtenidas en vida y/o muerte por nuestros antepasados, las cuales están escritas en la sangre que nos heredaron, por tanto, es muy difícil pensar que alguien pueda responder a cabalidad la pregunta ¿Quién soy? pero, gracias al tiempo que avanza sin importarle nada ni nadie, si podemos responder sin equivocarnos ¿Quién quiero ser? porque no nacerá ni dependerá de nada más que de nuestras futuras victorias, las que estarán siempre y cuando creamos en ellas, puesto que, nadie en su vida encontrará algo que nunca buscó.
 
-## Etapas del ciclo vital individual
+### Etapas del ciclo vital individual
 
 Según lo planteado por Erik Erikson sobre las etapas vitales que todo ser humano debe enfrentar en algún momento de la vida, el determina un total de ocho estadios psicosociales o procesos diferentes con sus propias crisis, dificultades y beneficios, que se detallan a continuación:
 
