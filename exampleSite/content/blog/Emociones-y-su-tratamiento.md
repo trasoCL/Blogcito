@@ -19,10 +19,13 @@ Es decir, esta información emocional que recibe y emite el cerebro humano, adem
 Según lo mencionado en el estudio de Moscoso (1998, pág 6), la evaluación cognitiva sobre que tan amenazadora es una situación influenciará significativamente la intensidad de la reacción emocional. El autor prosigue en que esta evaluación es entendida como *"el proceso de negociar entre las demandas y recursos del medio ambiente"*, versus, las creencias y prioridad de metas de la persona. 
 
 ####Ira
+
 ![](/uploads/ira.png)
 
 ####Felicidad
+
 ![](/uploads/felicidad.jpg)
 
 ####Temor
+
 ![](/uploads/temor.jpg)
