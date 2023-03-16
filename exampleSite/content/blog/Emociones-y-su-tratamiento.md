@@ -22,6 +22,8 @@ Según lo mencionado en el estudio de Moscoso (1998, pág 6), la evaluación cog
 
 ![](/uploads/ira.png)
 
+Una de las emociones más importantes debido a su gran influencia en el sistema nervioso dado que involucra altos niveles de testosterona y cortisol.
+
 #### Felicidad
 
 ![](/uploads/felicidad.jpg)
