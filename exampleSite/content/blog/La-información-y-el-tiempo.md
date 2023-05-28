@@ -1,10 +1,10 @@
 +++
 author = "Cristina Parra"
-categories = [""]
+categories = ["Trabajo Social"]
 date = 2023-05-28T12:00:00Z
 image = "/uploads/emociones-portada.jpg"
-tags = ["Salud emocional", "Método descriptivo"]
-title = "Emociones y su tratamiento"
+tags = ["Datos", "Método comparativo"]
+title = "La información y su tratamiento"
 
 +++
 **Nuestra forma de sentir y de expresión emocional son cruciales al momento de interactuar con otros y con el entorno, por ello, su comprensión es fundamental para el desarrollo humano que se espere tener.**
