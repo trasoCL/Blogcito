@@ -2,7 +2,7 @@
 author = "Cristina Parra"
 categories = ["Trabajo Social"]
 date = 2023-05-28T12:00:00Z
-image = "/uploads/niño-en-tv.jpg"
+image = "/uploads/niño-en-tv.JPG"
 tags = ["Ciencias de la información", "Método comparativo"]
 title = "La información y el tiempo"
 
