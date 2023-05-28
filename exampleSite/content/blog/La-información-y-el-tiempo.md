@@ -16,14 +16,7 @@ Si nos referimos al tiempo como el recurso imprescindible en cualquier proceso p
 
 Es por eso importante de estudiar sus efectos y alcances cuando se compara con la  información y su medición, ya que ambos son recursos que usan las personas y definiran su inversión de tiempo productivo.     
 
+![](/uploads/tiempo1.jpg)
 
 
-#### Ira
-
-![](/uploads/ira.png)
-
-
-#### Felicidad
-
-![](/uploads/felicidad.jpg)
 
