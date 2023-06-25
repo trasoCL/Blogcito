@@ -4,7 +4,7 @@ categories = ["Política a la CHILENA"]
 date = 2023-01-24T12:00:00Z
 image = "/uploads/la-izquierda-ha-sido-vencida-otra-vez.JPG"
 tags = ["Temporal", "Contingencia nacional", " Análisis descriptivo"]
-title = "El estado chileno y las crisis: caso 1"
+title = "El estado chileno y las crisis: 2023"
 
 +++
 **Es una verdad indiscutible que la gran mayoría de ideas subidas en este blog nacen de un molestar permanente generado por las pampiroladas de las entidades públicas de turno, las cuales enfocan su quehacer profesional en avergonzar y desprestigiar aquello que tanto me ayudó a crecer como persona e investigadora social, la ciencia política.**
@@ -25,9 +25,42 @@ Pero antes de referirnos al contenido de los argumentos, es necesario conocer un
 * Wilma Carola Muñoz Oliva (Periodista), Jefa de Gabinete de la ministra de relaciones exteriores (MINGAB) -> $6.677.565
 * Ana Lorena Diaz Ramírez (Periodista), Directora de comunicación estratégica (DICOME) -> $7.431.504
 * Alex Francisco Wetzigel Abdale (Abogado), Secretario general de política exterior (SEGEN) -> $8.575.192
-* Antonia Urrejola Noguera (Abogada), Ministra de relaciones exteriores -> 8.833.758
+* Antonia Urrejola Noguera (Abogada), Ministra de relaciones exteriores -> 8.833.758.
 
-Podemos observar que sumados los montos da un total de $31.518.019, que es parte del presupuesto al gasto fiscal en que el estado chileno invierte. mensualmente y en parte, esa cantidad de dinero en el presupuesto . Si lo comparamos con el sueldo promedio de sus colegas del área especializada que les otorgó su primer titulo profesional, se genera lo siguiente:
+La solución fue un sumario y exponerlo en TV.
 
-* En la caso de periodismo, según lo encontrado en la página talent.com (muestra 111, año 2023) el sueldo promedio es de $800.000, por su parte, el portal mifuturo.cl indica que al 4to año laboral, los ingresos mensuales son en promedio de $1.250.000. Por tanto, al calculan los promedios correspondientes en ambos ítems. el gasto mensual es mayor en, a lo menos, un
-* 
+**01 febrero - 01 marzo** 
+
+Multiples incendios ocurren en el sur de Chile, gran cantidad de damnificados y pérdidas para las forastales y comunidad general.
+
+    Solución: Ayudas a los damnificados.
+
+**01 mayo - 20 junio**
+
+Crisis hospitalaria por aumento de contagios de virus sincicial en infantes y niños.
+
+    Solución: Adelantar y extender vacaciones de invierno, uso de mascarrillas obligatorios en los colegios y liceos.
+
+**07 junio**
+
+Operativo de salud en colegio de talcahuano termina con varios niños y niñas denunciando tocaciones de los encargados del operativo, y la nula supervisión de profesores en el aula.
+
+    Solución: Suspensión de Directora del colegio y médico encargado, investigación de la Fiscalía. Superintendencia realiza fiscalización de oficio. Comisión de educación en la Cámara Alta del senado. 
+
+**14 junio**
+
+Los peores resultados en 10 años de la aplicación del SIMCE en Chile. Principalmente las mujeres presentan los resultados mas bajos.
+
+    Solución: Invertir dinero en una politica pública "Estrategia de Reactivación de la Matemática".
+
+**22 junio - 24 junio**
+
+Contratos de construcción millonarios (413 millones y 13% rendido) que fueron adjudicados por Fundación democracia viva, la cual pertenece al pololo de la Diputada Catalina Perez. Cabe destacar que se adjudico fondos de MINVU sin tener el giro de actividades pertinente.
+
+    Solución: Investigación de la Fiscalía.
+
+**22 junio - x**
+
+Catastrofe natural de aluviones y desbordamiento de rios provocada por intensas lluvias y una sistema de emergencias y seguridad muy ineficiente.
+
+    Solucion: Activar sistema de emergencias y seguridad social.
