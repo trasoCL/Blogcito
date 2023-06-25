@@ -35,6 +35,12 @@ Multiples incendios ocurren en el sur de Chile, gran cantidad de damnificados y 
 
     Solución: Ayudas a los damnificados.
 
+**16 abril**
+
+Ropa falsificada es vendida por La Polar e Hites a precios de ropa original, KIKI Imports es propiedad de Andrés Hites Moscovich y su hijo, Nicolás Hites Neef, miembros de la familia dueña de Empresas Hites, competidora directa de La Polar. 
+
+
+
 **01 mayo - 20 junio**
 
 Crisis hospitalaria por aumento de contagios de virus sincicial en infantes y niños.
