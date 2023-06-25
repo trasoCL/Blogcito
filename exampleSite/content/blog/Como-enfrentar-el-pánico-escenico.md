@@ -2,7 +2,7 @@
 author = "Cristina Parra"
 categories = ["Psicologia"]
 date = 2023-03-08T12:00:00Z
-image = "/uploads/pánico escenico.jpg"
+image = "/uploads/pánico escenico.JPG"
 tags = ["Salud emocional", "Método descriptivo"]
 title = "Cómo enfrentar el pánico escenico"
 
