@@ -8,3 +8,10 @@ title = "Acusaciones constitucionales en el Chile histórico"
 
 +++
 **Análisis comparativo de las acusaciones constitucionales que han sido realizadas a través de la historia**
+
+
+**20 de junio 2023**
+
+La Camara de diputados vs Ministro de educación Marco Antonio Ávila, la comisión se compone de 5 weones. 
+
+
